@@ -18,6 +18,8 @@ You'll be prompted for your password.
 
 ```python3 secret_santa.py <sender_gmail_address> <seed>```  
 
+## Notes
+
 You will have to allow "Less Secure" apps access to the sender gmail address.
 This isn't generally advised as it drops a lot of Gmail's security around your
 account. It might be better to use a throwaway address.
