@@ -1,7 +1,7 @@
 # secret-santa
 Secret Santa Email Script made for groups who can't get together to draw names.  
 
-##Setup
+## Setup
 Set up the following files in the correct format. Example files are given in the repo.  
 
 - `guest_list.csv`  
