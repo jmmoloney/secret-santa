@@ -10,6 +10,8 @@ Set up the following files in the correct format. Example files are given in the
    - Optional CSV of pairs of couples attending
    - If missing or blank, skips check that couples do not draw each other
 
+No other external libraries should be required to run. Take a look at the Notes section for other requirements.
+
 ## Usage
 With your files set up, run the script with the following command. Please include a random seed as this
 will help you re-run the script with the same results should you need to.  
